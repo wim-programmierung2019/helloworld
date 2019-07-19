@@ -4,7 +4,7 @@ public class Main {
      * Einstieg in ein Javaprogramm.
      */
     public static void main(String[] args){
-        System.out.println("Hello, World!");
+        System.out.println("Hea BVB!!!");
     }
     
 }
